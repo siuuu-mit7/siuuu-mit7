@@ -1,14 +1,20 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== PROFILE README ===================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Smit Rawat
+<!-- ===================== NAME BANNER ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=MCA+Integrated+Student+%F0%9F%8E%93;Mathematics+%26+Calculus+Enthusiast+%F0%9F%A7%AE;Aspiring+Developer+%F0%9F%92%BB;Football+Lover+%E2%9A%BD;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF1493&height=220&section=header&text=Smit%20Rawat&fontSize=65&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- ===================== TYPING INTRO ===================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MCA+Integrated+Student+%F0%9F%8E%93;Mathematics+%26+Calculus+Enthusiast+%F0%9F%A7%AE;Aspiring+Developer+%F0%9F%92%BB;Football+Lover+%E2%9A%BD;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -38,9 +44,13 @@ Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India** 🇮�
 
 ## 🎓 Education
 
-| 🎓 Course      | 🏫 Institute | 📍 Location            |
-| -------------- | ------------ | ---------------------- |
-| MCA Integrated | DAVV – IIPS  | Indore, Madhya Pradesh |
+<div align="center">
+
+|      🎓 Course     |   🏫 Institute  |           📍 Location           |
+| :----------------: | :-------------: | :-----------------------------: |
+| **MCA Integrated** | **DAVV – IIPS** | **Indore, Madhya Pradesh 🇮🇳** |
+
+</div>
 
 ---
 
@@ -66,9 +76,13 @@ Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India** 🇮�
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
+<br><br>
+
 ### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
 
 ### 🔧 Tools
 
@@ -76,7 +90,9 @@ Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India** 🇮�
 
 </div>
 
-> 🚀 I'm continuously learning and expanding my technical skills.
+<br>
+
+> 🚀 **I'm continuously learning and expanding my technical skills.**
 
 ---
 
@@ -85,22 +101,32 @@ Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India** 🇮�
 One of the things I enjoy most is the connection between **Mathematics and Computer Science**.
 
 ```text
-Mathematics
-     │
-     ├── 🧮 Calculus
-     │
-     ├── 🧠 Logic
-     │
-     ├── 📊 Problem Solving
-     │
-     └── 💻 Computer Science
-              │
-              ├── Algorithms
-              ├── Programming
-              └── Data Structures
+                         🧮 MATHEMATICS
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+          🧮 Calculus      🧠 Logic      📊 Problem Solving
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                              ▼
+                    💻 COMPUTER SCIENCE
+                              │
+                 ┌────────────┼────────────┐
+                 │            │            │
+            Algorithms   Programming   Data Structures
+                 │            │            │
+                 └────────────┼────────────┘
+                              │
+                              ▼
+                         🚀 BUILDING
 ```
 
+<div align="center">
+
 > **"Mathematics teaches me how to think. Programming teaches me how to build."**
+
+</div>
 
 ---
 
@@ -112,12 +138,12 @@ Football isn't just a hobby for me. ⚽
 
 It teaches me:
 
-* 🤝 Teamwork
-* 🎯 Focus
-* 🧠 Strategy
-* 💪 Discipline
-* 🔥 Perseverance
-* 🏆 Never giving up
+* 🤝 **Teamwork**
+* 🎯 **Focus**
+* 🧠 **Strategy**
+* 💪 **Discipline**
+* 🔥 **Perseverance**
+* 🏆 **Never giving up**
 
 <br clear="left"/>
 
@@ -127,11 +153,18 @@ It teaches me:
 
 ```text
 📚 Learn      → New technologies & concepts
+      ↓
 💻 Build      → Meaningful projects
+      ↓
 🧠 Improve    → Problem-solving skills
+      ↓
 🧮 Explore    → Mathematics + Computer Science
+      ↓
 🤝 Connect    → Developers & tech enthusiasts
+      ↓
 🌱 Grow       → Every single day
+      ↓
+             🔁 REPEAT
 ```
 
 ---
@@ -144,11 +177,7 @@ It teaches me:
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
 
@@ -168,23 +197,32 @@ It teaches me:
 
 ## 📈 My Learning Journey
 
+<div align="center">
+
 ```text
-             🌱 Learning
+                  🌱
+              LEARNING
                   │
                   ▼
-             🧠 Understanding
+                  🧠
+           UNDERSTANDING
                   │
                   ▼
-             💻 Practicing
+                  💻
+             PRACTICING
                   │
                   ▼
-             🛠️ Building
+                  🛠️
+              BUILDING
                   │
                   ▼
-             🚀 Improving
+                  🚀
+              IMPROVING
                   │
-                  └──────────────► 🔁 Repeat
+                  └──────────────► 🔁 REPEAT
 ```
+
+</div>
 
 ---
 
@@ -192,9 +230,13 @@ It teaches me:
 
 <div align="center">
 
-🚧 **Projects coming soon...**
+### 🚧 Projects Coming Soon...
 
 I'm currently learning and working on projects that I'll be sharing here.
+
+<br>
+
+🌱 **Learning → Building → Sharing**
 
 </div>
 
@@ -205,11 +247,11 @@ I'm currently learning and working on projects that I'll be sharing here.
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   "The best way to learn is to build." 🚀   ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       "The best way to learn is to build." 🚀    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -224,7 +266,9 @@ I'm currently learning and working on projects that I'll be sharing here.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn when you have one -->
+<br><br>
+
+<!-- Add LinkedIn later -->
 
 <!--
 <a href="YOUR_LINKEDIN_URL">
@@ -246,6 +290,8 @@ I'm currently learning and working on projects that I'll be sharing here.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF1493&height=120&section=footer" />
 
 </div>
+
+<!-- ===================== END ===================== -->
