@@ -1,136 +1,251 @@
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
 # 👋 Hi, I'm Smit Rawat
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MCA+Integrated+Student;Mathematics+%26+Calculus+Enthusiast;Football+Lover;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=MCA+Integrated+Student+%F0%9F%8E%93;Mathematics+%26+Calculus+Enthusiast+%F0%9F%A7%AE;Aspiring+Developer+%F0%9F%92%BB;Football+Lover+%E2%9A%BD;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India**.
+## 🧑‍💻 About Me
 
-I am currently pursuing an **MCA Integrated Course at DAVV – IIPS, Indore**. I am passionate about technology, programming, problem-solving, and learning new concepts.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Apart from computer science, I have a strong interest in **Mathematics and Calculus**. I enjoy understanding mathematical concepts and solving challenging problems.
+Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India** 🇮🇳.
 
-When I'm not studying or coding, I love playing **football**. ⚽
+🎓 Currently pursuing an **MCA Integrated Course** at **DAVV – IIPS, Indore**.
+
+💻 I'm interested in **programming, technology, problem solving, and software development**.
+
+🧮 I have a special interest in **Mathematics and Calculus** and enjoy exploring mathematical concepts and logical problems.
+
+⚽ Outside academics and coding, I love **playing football**.
+
+🌱 I'm constantly learning, experimenting, and improving my skills.
+
+<br clear="right"/>
 
 ---
 
 ## 🎓 Education
 
-* 🏫 **Institute:** DAVV – IIPS, Indore
-* 🎓 **Course:** MCA Integrated
-* 📍 **Location:** Indore, Madhya Pradesh, India
+| 🎓 Course      | 🏫 Institute | 📍 Location            |
+| -------------- | ------------ | ---------------------- |
+| MCA Integrated | DAVV – IIPS  | Indore, Madhya Pradesh |
 
 ---
 
-## 🧠 My Interests
+## 🧠 What I Love
 
-* 💻 Programming & Software Development
-* 🧮 Mathematics
-* 📐 Calculus
-* 🧠 Problem Solving
-* 🌐 Web Technologies
-* ⚽ Football
-* 🚀 Learning New Technologies
+<div align="center">
 
----
+|     💻 Technology    |     🧮 Mathematics    | ⚽ Football |
+| :------------------: | :-------------------: | :--------: |
+|      Programming     |        Calculus       |   Playing  |
+|    Problem Solving   |    Logical Thinking   |  Teamwork  |
+| Software Development | Mathematical Concepts |  Strategy  |
 
-## 🛠️ Skills
-
-### 💻 Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github" alt="My Skills" />
-</p>
-
-> Note: I am continuously learning and improving my skills.
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+> 🚀 I'm continuously learning and expanding my technical skills.
+
+---
+
+## 🧮 Mathematics × 💻 Computer Science
+
+One of the things I enjoy most is the connection between **Mathematics and Computer Science**.
 
 ```text
-💻 Programming
-🧠 Data Structures & Algorithms
-🌐 Web Development
-🗄️ Database Management
-🧮 Mathematics & Calculus
-🔧 Git & GitHub
+Mathematics
+     │
+     ├── 🧮 Calculus
+     │
+     ├── 🧠 Logic
+     │
+     ├── 📊 Problem Solving
+     │
+     └── 💻 Computer Science
+              │
+              ├── Algorithms
+              ├── Programming
+              └── Data Structures
+```
+
+> **"Mathematics teaches me how to think. Programming teaches me how to build."**
+
+---
+
+## ⚽ Football & Me
+
+<img align="left" width="250" src="https://media.giphy.com/media/3o6Zt6D5x4wJ8cKJ6w/giphy.gif">
+
+Football isn't just a hobby for me. ⚽
+
+It teaches me:
+
+* 🤝 Teamwork
+* 🎯 Focus
+* 🧠 Strategy
+* 💪 Discipline
+* 🔥 Perseverance
+* 🏆 Never giving up
+
+<br clear="left"/>
+
+---
+
+## 🚀 My Goals
+
+```text
+📚 Learn      → New technologies & concepts
+💻 Build      → Meaningful projects
+🧠 Improve    → Problem-solving skills
+🧮 Explore    → Mathematics + Computer Science
+🤝 Connect    → Developers & tech enthusiasts
+🌱 Grow       → Every single day
 ```
 
 ---
 
-## ⚽ Beyond Coding
+## 📊 GitHub Analytics
 
-Football is one of my favorite hobbies.
+<div align="center">
 
-Playing football helps me develop:
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-* 🤝 Teamwork
-* 🎯 Focus
-* 💪 Discipline
-* 🧠 Strategy
-* 🔥 Perseverance
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
----
+</div>
 
-## 🎯 My Goals
+<br>
 
-* 🚀 Become a skilled software developer
-* 💻 Build useful and interesting projects
-* 🧠 Improve my problem-solving skills
-* 🧮 Explore the connection between Mathematics and Computer Science
-* 📚 Learn new technologies
-* 🤝 Contribute to open-source projects
-* 🌱 Continuously improve myself
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 My Contribution Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Smit's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📈 My Learning Journey
+
+```text
+             🌱 Learning
+                  │
+                  ▼
+             🧠 Understanding
+                  │
+                  ▼
+             💻 Practicing
+                  │
+                  ▼
+             🛠️ Building
+                  │
+                  ▼
+             🚀 Improving
+                  │
+                  └──────────────► 🔁 Repeat
+```
 
 ---
 
 ## 📌 Featured Projects
 
-> 🚧 Projects coming soon...
+<div align="center">
 
-I will be adding my projects here as I continue my development journey.
+🚧 **Projects coming soon...**
 
----
+I'm currently learning and working on projects that I'll be sharing here.
 
-## 💡 Quote
-
-<p align="center">
-  <i>"Code with logic, solve with mathematics, and play with passion."</i> ⚡
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 💡 Random Developer Thought
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   "The best way to learn is to build." 🚀   ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ If you like my profile, consider giving my repositories a star!
-</p>
+## 📫 Connect With Me
 
-<p align="center">
-  <b>Made with ❤️ by Smit Rawat</b>
-</p>
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn when you have one -->
+
+<!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • 🧮 Calculate • ⚽ Play • 🚀 Repeat
+
+<br>
+
+**Thanks for visiting my profile! ❤️**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
