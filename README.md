@@ -1,134 +1,136 @@
-
-
 # 👋 Hi, I'm Smit Rawat
 
-### 🎓 MCA Integrated Student | 💻 Aspiring Software Developer | ⚽ Football Lover
-
-Welcome to my GitHub profile! I'm **Smit Rawat**, a passionate and curious student currently pursuing an **MCA Integrated Course at IIPS, DAVV**.
-
-I enjoy exploring the world of technology, learning programming, and working on new ideas and projects. I believe that consistent learning and practical experience are the keys to becoming a successful developer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MCA+Integrated+Student;Mathematics+%26+Calculus+Enthusiast;Football+Lover;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-* 👨‍🎓 **Name:** Smit Rawat
+Hi! I'm **Smit Rawat**, a student from **Indore, Madhya Pradesh, India**.
+
+I am currently pursuing an **MCA Integrated Course at DAVV – IIPS, Indore**. I am passionate about technology, programming, problem-solving, and learning new concepts.
+
+Apart from computer science, I have a strong interest in **Mathematics and Calculus**. I enjoy understanding mathematical concepts and solving challenging problems.
+
+When I'm not studying or coding, I love playing **football**. ⚽
+
+---
+
+## 🎓 Education
+
+* 🏫 **Institute:** DAVV – IIPS, Indore
 * 🎓 **Course:** MCA Integrated
-* 🏫 **Institute:** IIPS, DAVV
-* 💻 **Field:** Computer Applications & Technology
-* 🌱 **Currently Learning:** Programming, Development & New Technologies
-* ⚽ **Hobby:** Playing Football
-* 🎯 **Goal:** To become a skilled and successful software developer
-* 💡 **Interests:** Technology, Coding, Problem Solving & Development
+* 📍 **Location:** Indore, Madhya Pradesh, India
 
 ---
 
-## 🚀 My Journey
+## 🧠 My Interests
 
-I am currently at the beginning of my journey in the field of **Computer Applications and Software Development**.
-
-As an MCA Integrated student, I am continuously improving my knowledge of programming concepts, computer science fundamentals, and modern technologies.
-
-I enjoy learning by building projects and experimenting with new ideas. My goal is to gain strong technical skills and use them to create useful and meaningful applications.
-
-> 💡 **"Learning never stops. Every line of code is a step forward."**
-
----
-
-## 💻 What I'm Learning
-
-I am working on improving my knowledge in areas such as:
-
-* 🧩 Programming Fundamentals
+* 💻 Programming & Software Development
+* 🧮 Mathematics
+* 📐 Calculus
 * 🧠 Problem Solving
-* 📚 Data Structures & Algorithms
-* 🌐 Web Development
-* 🗄️ Database Management
-* 🔧 Software Development
-* 🖥️ Computer Science Fundamentals
-* 🚀 New and Emerging Technologies
-
-As I continue my studies, I plan to explore more technologies and frameworks and build projects to strengthen my practical knowledge.
+* 🌐 Web Technologies
+* ⚽ Football
+* 🚀 Learning New Technologies
 
 ---
 
-## ⚽ My Hobby – Football
+## 🛠️ Skills
 
-Apart from coding and academics, **football is one of my favorite hobbies**.
+### 💻 Programming & Development
 
-I enjoy playing football because it keeps me active and teaches valuable lessons about **teamwork, discipline, communication, and leadership**.
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github" alt="My Skills" />
+</p>
 
-For me, football is not just a game — it's a great way to refresh my mind and maintain a balance between studies and personal life. ⚽🔥
+> Note: I am continuously learning and improving my skills.
+
+---
+
+## 📚 Currently Learning
+
+```text
+💻 Programming
+🧠 Data Structures & Algorithms
+🌐 Web Development
+🗄️ Database Management
+🧮 Mathematics & Calculus
+🔧 Git & GitHub
+```
+
+---
+
+## ⚽ Beyond Coding
+
+Football is one of my favorite hobbies.
+
+Playing football helps me develop:
+
+* 🤝 Teamwork
+* 🎯 Focus
+* 💪 Discipline
+* 🧠 Strategy
+* 🔥 Perseverance
 
 ---
 
 ## 🎯 My Goals
 
-My main goals for the coming years are:
-
-* 📖 Build a strong foundation in Computer Science
-* 💻 Become better at programming
-* 🧠 Improve problem-solving skills
-* 🚀 Create real-world projects
-* 🌐 Learn modern development technologies
-* 🤝 Collaborate with other developers
-* 📈 Gain practical industry experience
-* 👨‍💻 Become a professional software developer
+* 🚀 Become a skilled software developer
+* 💻 Build useful and interesting projects
+* 🧠 Improve my problem-solving skills
+* 🧮 Explore the connection between Mathematics and Computer Science
+* 📚 Learn new technologies
+* 🤝 Contribute to open-source projects
+* 🌱 Continuously improve myself
 
 ---
 
-## 📂 My GitHub
+## 📊 GitHub Stats
 
-This GitHub profile is a place where I will share my:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Smit's GitHub Stats" />
+</p>
 
-* 🛠️ Personal projects
-* 📚 College projects
-* 💻 Programming practice
-* 🧪 Experiments and learning projects
-* 📝 Notes and resources
-* 🚀 Future development work
-
-I'm looking forward to filling my profile with projects and documenting my progress as I continue learning.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🌱 Currently
+## 📌 Featured Projects
 
-> 🎓 Pursuing MCA Integrated at IIPS, DAVV
-> 💻 Learning and practicing programming
-> 🚀 Working towards building projects
-> ⚽ Playing football in my free time
-> 📚 Continuously learning and improving
+> 🚧 Projects coming soon...
+
+I will be adding my projects here as I continue my development journey.
 
 ---
 
-## 📊 My Learning Philosophy
+## 💡 Quote
 
-I believe that **small improvements every day can lead to big results over time**.
-
-I'm focused on learning the fundamentals, practicing consistently, making mistakes, learning from them, and becoming a better developer step by step.
-
-```text
-Learn → Practice → Build → Make Mistakes → Improve → Repeat 🔄
-```
+<p align="center">
+  <i>"Code with logic, solve with mathematics, and play with passion."</i> ⚡
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I'm always interested in learning new things, exploring interesting projects, and connecting with people who share an interest in technology and development.
-
-Feel free to explore my repositories and follow my journey as I learn, build, and grow as a developer.
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## ⭐ Thank You!
+<p align="center">
+  ⭐ If you like my profile, consider giving my repositories a star!
+</p>
 
-Thank you for visiting my GitHub profile!
-
-If you find any of my projects interesting, feel free to ⭐ **star** them and check out my other repositories.
-
-### 🚀 Keep Learning. Keep Building. Keep Growing.
-
-**— Smit Rawat**
-
+<p align="center">
+  <b>Made with ❤️ by Smit Rawat</b>
+</p>
